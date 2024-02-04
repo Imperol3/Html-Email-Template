@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Placeholder Email</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f8f8f8;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 600px;
+            margin: 30px auto;
+            background-color: #ffffff;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+        }
+
+        header {
+            background-color: #4CAF50;
+            color: #ffffff;
+            padding: 20px;
+            text-align: center;
+        }
+
+        main {
+            padding: 20px;
+        }
+
+        p {
+            line-height: 1.6;
+            color: #333333;
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        ul li {
+            margin-bottom: 10px;
+        }
+
+        a {
+            display: inline-block;
+            background-color: #4CAF50;
+            color: #ffffff;
+            text-decoration: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+        }
+
+        a:hover {
+            background-color: #45a049;
+        }
+
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #4CAF50;
+            color: #ffffff;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+       
+        <main>
+            <p>Hello [Recipient Name],</p>
+            <p>I hope you are well. My name is [Your Name], and I am reaching out to share how [Your Product/Service]
+                can help [your business ]</p>
+            <ul>
+                <li><strong>[Benefit 1]:</strong> [Description of Benefit 1].</li>
+                <li><strong>[Benefit 2]:</strong> [Description of Benefit 2].</li>
+                <li><strong>[Benefit 3]:</strong> [Description of Benefit 3].</li>
+                <li><strong>[Benefit 4]:</strong> [Description of Benefit 4].</li>
+                <li><strong>[Benefit 5]:</strong> [Description of Benefit 5].</li>
+            </ul>
+            <p>This is your text placeholder for tthe next plart.</p>
+            <p>I would love to schedule a call to discuss how our solutions can help your business be more efficient.
+                Are you available for a 30-minute intro call? You can book a quick call <br>
+                <a href="[Your Link]" target="_blank">here</a></p>
+            <p>Looking forward to speaking with you!</p>
+            <p>Best Regards,<br>[Your Name],<br> [Your Company Name]</a></p>
+        </main>
+      
+    </div>
+</body>
+
+</html>
